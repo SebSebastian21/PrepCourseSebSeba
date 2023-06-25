@@ -1,2 +1,1 @@
-# PrepCourseSebSeba
-Este es un repositorio de pueba modulo 2
+Este es un proyecto de prueba de como crear un repositorio y clonarlo desde hithub a mi escritorio local
